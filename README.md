@@ -13,7 +13,11 @@ Student Profiles: Maintain comprehensive profiles for each student, including pe
 Technologies Used
 
 Java: Backend development for robust server-side functionalities.
+
 SQL: Database management for storing and retrieving student data efficiently.
+
 HTML/CSS: Frontend development for creating intuitive user interfaces.
+
 JavaScript: Enhance interactivity and functionality on the client-side.
+
 Bootstrap: Utilized for responsive and mobile-first design elements.
